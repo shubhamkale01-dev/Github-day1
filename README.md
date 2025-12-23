@@ -12,3 +12,6 @@ This is my first GitHub repository.
 Become a Full Stack Developer 💻
 Learning GitHub daily
 Day 2 completed successfully
+## Day 3
+Learning about branches and pull requests
+ 
