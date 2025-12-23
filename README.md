@@ -10,3 +10,4 @@ This is my first GitHub repository.
 
 ## Goal
 Become a Full Stack Developer 💻
+Learning GitHub daily
